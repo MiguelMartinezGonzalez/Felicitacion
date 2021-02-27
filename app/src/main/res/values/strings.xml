@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Tarjeta Felicitacion</string>
+
+    <string name="text1">Feliz Pascua! </string>
+    <string name="text2">By Miguel Angel </string>
+    <string name="text3">Martinez!!! </string>
+    <string name="textosplash">Cargando...</string>
+
+</resources>
